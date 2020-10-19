@@ -32,13 +32,13 @@ git clone https://github.com/MahmoudSabra1/MonsterGo-VR-game
 <!-- USAGE EXAMPLES -->
 ## Usage
 
--Press the play button in Unity to start the game.
--The game can also be played on an android mobile phone by installing the apk file on it, connecting it with the Google Cardboard and then starting the game.
+* Press the play button in Unity to start the game.
+* The game can also be played on an android mobile phone by installing the apk file on it, connecting it with the Google Cardboard and then starting the game.
+
 Here are some screenshots:
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/40613682/96073810-7c241980-0ea7-11eb-848d-29b56ecf4fc1.png alt="drawing" width="220" height="230"/>
-  <img src=https://user-images.githubusercontent.com/40613682/96074052-fc4a7f00-0ea7-11eb-8fca-4baf225ed327.png alt="drawing" width="220" height="230"/> 
-  <img src=https://user-images.githubusercontent.com/40613682/96074205-67945100-0ea8-11eb-9e43-5b9124c94275.png alt="drawing" width="220" height="230"/>
-  <img src=https://user-images.githubusercontent.com/40613682/96074354-ca85e800-0ea8-11eb-86da-749d3653ddbf.png alt="drawing" width="220" height="230"/>
-  <img src=https://user-images.githubusercontent.com/40613682/96076039-b9d77100-0eac-11eb-93e0-26ca0f6e678d.png alt="drawing" width="220" height="230"/>
+  <img src=https://user-images.githubusercontent.com/43937873/96431521-e9b3ab00-1203-11eb-919c-5691d0a49ca0.png alt="drawing" width="700"/> 
+  <img src=https://user-images.githubusercontent.com/43937873/96431677-27183880-1204-11eb-908d-f64094fda0e7.png alt="drawing" width="700"/>
+  <img src=https://user-images.githubusercontent.com/43937873/96431737-3ac39f00-1204-11eb-9efb-52bd33407c2a.png alt="drawing" width="700"/>
+  <img src=https://user-images.githubusercontent.com/43937873/96431783-4ca54200-1204-11eb-844c-89f162c24623.png alt="drawing" width="700"/>
 </p>
