@@ -33,7 +33,9 @@ git clone https://github.com/MahmoudSabra1/MonsterGo-VR-game
 ## Usage
 
 * Press the play button in Unity to start the game.
-* The game can also be played on an android mobile phone by installing the apk file on it, connecting it with the Google Cardboard and then starting the game.
+* The game can be played on an android mobile phone by installing the apk file on it, connecting it with the Google Cardboard and then starting the game.
+
+Throw pokeballs at monsters to collect as many as possible within the game time. Pokeballs can be thrown by clicking on the left mouse button when playing on a computer or by clicking on the button of the Google Cardboard when playing on a mobile phone.
 
 Here are some screenshots:
 <p align="center">
